@@ -1,4 +1,4 @@
-package com.example.junit;
+package com.oops;
 
 import org.junit.FixMethodOrder;
 import org.junit.Test;

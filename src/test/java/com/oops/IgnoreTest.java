@@ -1,4 +1,4 @@
-package com.example.junit;
+package com.oops;
 
 import org.junit.Ignore;
 import org.junit.Test;

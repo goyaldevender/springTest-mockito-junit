@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.oops;
 
 import java.util.List;
 import java.util.stream.Collectors;

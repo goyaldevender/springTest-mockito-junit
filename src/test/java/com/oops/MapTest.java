@@ -1,4 +1,4 @@
-package com.example.junit;
+package com.oops;
 
 import org.hamcrest.collection.IsMapContaining;
 import org.junit.Test;

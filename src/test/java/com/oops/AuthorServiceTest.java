@@ -1,9 +1,9 @@
-package com.example.junit;
+package com.oops;
 
-import com.example.demo.AuthorServiceImpl;
-import com.example.demo.Book;
-import com.example.demo.BookServiceImpl;
-import com.example.demo.FakeBookValidatorService;
+import com.oops.AuthorServiceImpl;
+import com.oops.Book;
+import com.oops.BookServiceImpl;
+import com.oops.FakeBookValidatorService;
 
 import org.junit.Test;
 
