@@ -9,6 +9,7 @@ import org.springframework.ui.Model;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
+
 /**
  * Created by Devender on 19/05/18.
  */
