@@ -82,3 +82,8 @@
 * @Rollback: Explicitly specify that the transaction should be rolled back(Generally its done by default)
 * @Sql: Specify SQL scripts to run before.
 
+#### Maven-surefire-plugin vs Maven-failsafe-plugin 
+* maven-surefire-plugin is designed for running unit tests and if any of the tests fail then it will fail the build 
+  immediately.
+* maven-failsafe-plugin is designed for running integration tests, and decouples failing the build if there are test 
+  failures from actually running the tests.
